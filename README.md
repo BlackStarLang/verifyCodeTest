@@ -1,8 +1,7 @@
 # verifyCodeTest
 常见方块验证码输入框，支持光标显示
 
-<img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/1.png" width = 300>
-<img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/2.png" width = 300>
+<img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/1.png" width = 300> <img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/2.png" width = 300>
 <img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/3.gif" width = 300>
 
 usage
