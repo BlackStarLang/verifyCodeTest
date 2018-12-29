@@ -5,6 +5,11 @@
 <img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/3.gif" width = 300>
 
 usage
+
+pod使用
+打开终端，cd到当前目录，执行pod install <br/>
+双击打开verifyCodeTest.xcworkspace
+
 ```
 -(SQShopInviteCodeView *)inviteCodeView{
     if (!_inviteCodeView) {
