@@ -1,12 +1,10 @@
 # verifyCodeTest
 常见方块验证码输入框，支持光标显示
-<br/>
-<br/>
+
 <img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/1.png" width = 300>
 <img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/2.png" width = 300>
-![](https://github.com/BlackStarLang/verifyCodeTest/blob/master/3.gif)
+<img src = "https://github.com/BlackStarLang/verifyCodeTest/blob/master/3.gif" width = 300>
 
-<br/>
 usage
 ```
 -(SQShopInviteCodeView *)inviteCodeView{
@@ -19,11 +17,7 @@ usage
     return _inviteCodeView;
 }
 
-```
-回调处理
-```
 //view delegate
-
 -(void)shopInviteCodeViewCode:(NSString *)codeStr rightBtnClick:(UIButton *)sender removeSelf:(void (^)(BOOL, NSString *))removeSelfBlock{
     /*
      codeStr是输入的验证码
